@@ -1,0 +1,92 @@
+.navlogo h1{
+    color: white;
+    padding-left: 50px;
+}
+.navbar{
+    background-color: #2c3e50  !important;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.nav-link{
+    color: white !important;
+    text-decoration: none !important;
+    
+    font-weight: bold !important;
+    
+}
+.navul{
+    
+    display: flex !important;
+}
+
+  .nav-item {
+    margin-right: 15px;
+    
+  }
+  .navbar{
+    height: 6em !important;
+    position: sticky !important;
+  }
+  
+  .nav-link:hover {
+    color: #009878 !important;
+  }
+  .crousal{
+    /* border: 1px solid black; */
+    height: 37em;
+    background-color: #1abc9c;
+  }
+  .avatar img{
+    width: 20% !important;
+  }
+  .avatar h1{
+    font-weight:bolder !important ;
+    color: white;
+  }
+  .avatar h3{
+    color: white;
+  }
+  .section1 h2{
+font-size: 42px !important;
+font-weight: bolder; 
+color: #2c3e50;
+}
+.img1{
+    width:75% !important;
+    height: 50em !important;
+}
+.img2{
+  height: 50em !important;
+  width: 75% !important;
+}
+/* .img3{
+  width: 100% !important;
+}
+.img4{
+width: 100% !important;
+}
+.img5{
+width: 100% !important;
+} */
+.crousal h1{
+  color: white !important;
+  font-size: 69px !important;
+  font-weight: bolder !important;
+}
+.about {
+  text-align: left !important;
+  color: white;
+  /* font-weight: bolder; */
+  line-height: 35px;
+}
+.bt1 a{
+  color: white !important;
+}
+a:hover{
+  color: black !important;
+}
+body div{
+  border: none !important;
+}
